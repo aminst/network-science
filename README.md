@@ -23,10 +23,12 @@ Topics:
 14. [Graph Neural Networks](assignment_graph_neural_networks/assignment.ipynb)
 15. [Influence Propagation](assignment_influence_agents/assignment.ipynb)
 16. [Knowledge Graph Embedding](assignment_knowledge_graph_embeddings/assignment.ipynb)
+17. [Multihop Reasoning in Knowledge Graphs](assignment_multihop/assignment.ipynb)
 
 Here are also descriptions of some competitions held among students to solve practical tasks on graphs:
 1. [Network Generation](competition_network_generation/competition.ipynb)
 2. [Link Prediction](competition_link_prediction/competition.ipynb)
+3. [Marketing Campaign](competition_marketing_campaign/competition.ipynb)
 
 Lecture materials: http://leonidzhukov.net/hse/2021/networkscience/
 
